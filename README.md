@@ -1,4 +1,3 @@
 # Suzuki-Lab-OOMMF
-Contains mif test files, odt data files, python data analysis files
+Contains odt data files and python data analysis files for OOMMF simulation outputs.
 
-Test pulling from Github.
